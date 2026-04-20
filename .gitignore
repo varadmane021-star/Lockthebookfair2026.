@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificate Verification - Varad Mane</title>
+  <meta name="description" content="Official verification page for Varad Mane’s certificate from Lock The Book Fair 2026, verified by Scholastic & VR Nagpur.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+    }
+    img {
+      max-width: 300px;
+      height: auto;
+      margin: 20px auto;
+      display: block;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      color: #555;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <h1>Certificate Verification</h1>
+  <p>This certificate has been verified by Scholastic & VR Nagpur.</p>
+
+  <!-- Verified Certificate Image -->
+  <img src="certificate_verification_image.jpg" alt="Verified Certificate">
+
+  <p>Certificate ID: <strong>12345AP97LR</strong></p>
+
+  <!-- QR Code pointing to this page -->
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://yourusername.github.io/lockthebookfair2026/" alt="QR Code">
+
+  <div class="footer">© 2026 Scholastic & VR Nagpur | Lock The Book Fair Verification Portal</div>
+</body>
+</html>
